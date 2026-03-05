@@ -1,8 +1,26 @@
-# FluxRate 💱
+<p align="center">
+  <img src="screenshots/logo.png" alt="FluxRate Logo" width="120"/>
+</p>
 
-A modern, offline-first currency converter for Android built with Jetpack Compose and Material 3.
+<h1 align="center">FluxRate</h1>
+<p align="center">
+  A modern, offline-first currency converter for Android built with Jetpack Compose and Material 3.
+</p>
+<p align="center">
+  Supports <strong>160+ fiat currencies</strong>, <strong>80+ cryptocurrencies</strong>, and <strong>precious metals</strong> (Gold, Silver, Platinum, Palladium) — all in one clean interface.
+</p>
 
-Supports **160+ fiat currencies**, **80+ cryptocurrencies**, and **precious metals** (Gold, Silver, Platinum, Palladium) — all in one clean interface.
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/dark.png" alt="Dark Mode" width="250"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/light.png" alt="Light Mode" width="250"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/selector.png" alt="Currency Selector" width="250"/>
+</p>
 
 ## Features
 
@@ -16,12 +34,7 @@ Supports **160+ fiat currencies**, **80+ cryptocurrencies**, and **precious meta
 - **Theme support** — System / Light / Dark with neon brutalism aesthetic
 - **Responsive layout** — adapts to any screen size using dynamic `BoxWithConstraints` sizing
 - **Splash screen** — animated brand intro with smooth crossfade transition
-
-## Screenshots
-
-| Dark Mode | Light Mode | Currency Selector |
-|-----------|------------|-------------------|
-| *coming soon* | *coming soon* | *coming soon* |
+- **Blur effect** — frosted glass background when settings panel is open
 
 ## Tech Stack
 
@@ -72,4 +85,4 @@ app/src/main/java/com/oss/fluxrate/
 
 ## License
 
-This project is for personal/educational use.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
